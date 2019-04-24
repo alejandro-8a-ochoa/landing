@@ -1,5 +1,5 @@
 .conteiner-carrucel{
-    height: 30em;
+    height: 40em;
 }
 
 .carousel-title{
@@ -40,4 +40,17 @@ img.size-icon-card{
     width: 50%;
     margin-left: 25%;
     font-size: 3vw;
+}
+
+section.aboutUs{
+  font-family: "Playfair Display";
+  line-height: 1;
+}
+section.aboutUs h1{
+    font-size: 4em;
+}
+hr.hr-line{
+    width: 30%;
+    height: 1px;
+    background-color: red;
 }
