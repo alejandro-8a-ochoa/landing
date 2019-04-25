@@ -45,12 +45,22 @@ img.size-icon-card{
 section.aboutUs{
   font-family: "Playfair Display";
   line-height: 1;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
+
 section.aboutUs h1{
     font-size: 4em;
 }
+
 hr.hr-line{
     width: 30%;
     height: 1px;
     background-color: red;
+
+}
+
+section.aboutUs h2.title-aboutUs{
+    color:red
 }
